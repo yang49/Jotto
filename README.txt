@@ -5,9 +5,9 @@ How to use:
 	   automatically.)
 	2. Use "make" command to compile and run the program.
 	3. In the file menu, you could use "New Game" to start a new game.
-      Use "Quit", you could quit the program.
-   4. You have 10 chances in total. Once you have used up 10 chances,
-      the game is over.
+           Use "Quit", you could quit the program.
+        4. You have 10 chances in total. Once you have used up 10 chances,
+           the game is over.
 	   
 
 Enhancement:
